@@ -76,7 +76,7 @@
 
       <line-chart 
         class="my-10 bg-opacity-25 bg-gradient-to-r from-indigo-400 to-purple-400"
-        :colors="['red']"
+        :colors="['#e2e8f0']"
         :min="min"
         :max="max"
         :data="history.map(h => [h.date, parseFloat(h.priceUsd).toFixed(2)])"
