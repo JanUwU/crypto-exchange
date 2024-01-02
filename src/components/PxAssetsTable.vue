@@ -14,7 +14,7 @@
         </th>
         <th class="text-gray-300">Nombre</th>
         <th class="text-gray-300">Precio</th>
-        <th class="text-gray-300">Cap. de Mercado</th>
+        <th class="text-gray-300">Valor En El Mercado</th>
         <th class="text-gray-300">Variación 24hs</th>
         <td class="hidden sm:block">
           <input
